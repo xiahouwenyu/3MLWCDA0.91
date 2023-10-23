@@ -1,0 +1,10 @@
+Standard/res/*
+Standard/src/*.ipynb
+data/*
+Standard/src/mytools/llh_skymap/*.gz
+Standard/src/mytools/skymap/*.gz
+Standard/src/mytools/skymap/*.pdf
+Standard/src/mylib/__pycache__/
+!Standard/src/Justdraw.ipynb
+!Standard/src/3MLnew_J0248_tut.ipynb
+!Standard/src/3MLnew_Crab.ipynb
